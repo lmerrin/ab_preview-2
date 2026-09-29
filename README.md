@@ -1,13 +1,15 @@
-# Ariel Bunao — Option B: The Exhibition · GitHub Preview Rev 2
+# Ariel Bunao — Option B: The Exhibition · GitHub Preview Rev 3
 
-This ZIP is the complete **Option B Rev 2** website package. Upload the contents of this ZIP to the root of the existing Option B GitHub repository. Replace files with matching paths. Option A is a separate design and is not part of this package.
+This is the **complete Option B Rev 3 package**. Upload the contents of the folder to the root of your existing Option B GitHub repository, replacing matching files. Option A is separate.
 
-## Changes in Rev 2
+## Rev 3 changes
 
-- Six supplied framed mockups in a three-column, two-row desktop gallery, with two columns on tablet and one on mobile.
-- Artwork names and physical dimensions remain placeholders: “Image Title” and “Actual image size # x #”. These are not measured from the pixel dimensions.
-- New artist-at-work section, script treatment for “Ariel,” and updated Instagram and Webby Wahine footer links.
+- “Price” placeholder beside each “Image Title,” aligned above its inquiry link.
+- Subtle hover enlargement and an accessible click-to-open artwork detail dialog for all six works.
+- Removed the artwork metadata notice and its dividing line.
+- Muted, looping footage of Ariel painting begins at 00:02 as the background of the artist-at-work section. The two foreground photos remain, and the section's padding and content geometry stay the same.
+- A still background displays for people who prefer reduced motion.
 
-**Commit message:** `Revise Ariel Option B gallery and artist sections (Rev 2)`
+**Commit message:** `Add artwork detail popups and process video to Ariel Option B (Rev 3)`
 
-The framed images are visual mockups, not exact archival reproductions. Confirm original artwork photography, dimensions, titles, availability, image use approval, and the public contact email with Ariel before launch. The preview has no checkout. The `noindex` tag asks search engines not to list it but does not restrict access.
+“Image Title,” “Actual image size # x #,” and “Price” are placeholders. The framed artwork is a visual mockup. Confirm titles, dimensions, prices, availability, image approval, and Ariel’s public contact email before launch. The GitHub concept uses `noindex` but is publicly accessible to anyone with the URL.
