@@ -1,12 +1,7 @@
-# Option B · Rev 3 QA
+# Option B · Rev 4 QA
 
-## Local checks
+Source checks: six gallery cards, local assets and anchor targets, JavaScript syntax, requested copy, caption removal, title margin reset, mobile two-column grid, centered artist panel, and sticky header.
 
-- Six artwork cards have images, title, size, price, and inquiry placeholders; the detail dialog copies each card's content.
-- Native dialog supports Escape; the close button and backdrop close it; focus returns to the triggering image button.
-- The video file has been trimmed to start at source 00:02, compressed for the web, muted, looped, and placed behind the existing section content. Reduced motion switches to a still poster.
-- All local image, video, CSS, JS, and anchor references resolve.
+The detail magnifier computes the visible image bounds and stays within the popup's image area. Touch devices use the magnifier button for a 2× image zoom. The process images use contain inside the existing image areas; their complete content is visible without increasing the section's image height.
 
-## Review on GitHub Pages
-
-Inspect at desktop, tablet, and mobile widths. Click every artwork, close with the button, Escape, and backdrop, then test keyboard focus and reduced motion. Confirm the footage, contrast, and audio-free playback in Safari and Chrome. Replace all placeholders with Ariel's approved information before launch.
+A browser runtime is unavailable in this workspace. Review visual layout and magnifier behavior on GitHub Pages at desktop and mobile widths, including navigation anchor offsets and Escape/close-button behavior.

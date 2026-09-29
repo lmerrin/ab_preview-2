@@ -1,15 +1,16 @@
-# Ariel Bunao — Option B: The Exhibition · GitHub Preview Rev 3
+# Ariel Bunao — Option B · GitHub Preview Rev 4
 
-This is the **complete Option B Rev 3 package**. Upload the contents of the folder to the root of your existing Option B GitHub repository, replacing matching files. Option A is separate.
+Complete Option B package. Upload the contents of this folder to the root of the existing Option B repository, replacing matching files.
 
-## Rev 3 changes
+## Rev 4 changes
 
-- “Price” placeholder beside each “Image Title,” aligned above its inquiry link.
-- Subtle hover enlargement and an accessible click-to-open artwork detail dialog for all six works.
-- Removed the artwork metadata notice and its dividing line.
-- Muted, looping footage of Ariel painting begins at 00:02 as the background of the artist-at-work section. The two foreground photos remain, and the section's padding and content geometry stay the same.
-- A still background displays for people who prefer reduced motion.
+- Updated gallery introduction with the approved “Art that feels like coming home” wording.
+- Script typography for “moments” and “the artist at work.”
+- Corrected title/price alignment; two artwork columns on mobile.
+- Centered the mobile artist text panel with 24px side margins; sticky mobile navigation.
+- Replaced the outdoor process photo, removed both captions, and contained the full process photos in the existing image areas.
+- Added a 2.5× hover magnifier to the image side of the detail popup. The magnifying-glass button provides zoom on touch devices; tap the zoomed picture to inspect a different area.
 
-**Commit message:** `Add artwork detail popups and process video to Ariel Option B (Rev 3)`
+**Commit message:** `Refine Ariel Option B mobile gallery, artwork zoom, and copy (Rev 4)`
 
-“Image Title,” “Actual image size # x #,” and “Price” are placeholders. The framed artwork is a visual mockup. Confirm titles, dimensions, prices, availability, image approval, and Ariel’s public contact email before launch. The GitHub concept uses `noindex` but is publicly accessible to anyone with the URL.
+Titles, artwork dimensions, and prices remain placeholders. Framed artwork images are presentation mockups. Video starts at source 00:02. Review on GitHub Pages before sharing.
