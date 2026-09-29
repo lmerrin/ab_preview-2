@@ -1,16 +1,13 @@
-# Option B · Rev 1 QA
+# Option B · Rev 2 QA
 
-## Source checks completed
+## Verified locally
 
-- All local assets and anchor targets resolve, one H1, semantic header/navigation/main/sections/footer, meaningful image alt text, and a skip link.
-- Art photos use WebP derivatives with explicit intrinsic dimensions. Below-the-fold images are lazy loaded. The featured painting is shown whole.
-- Responsive rules cover mobile, tablet, and desktop widths without framework dependencies. Navigation remains visible and usable without hover. Reduced-motion support and focus outlines are present.
-- No price, stock, policy, review, credential, or claim was invented. No checkout or inactive mock purchase control is displayed.
+- Six gallery images are present, have descriptive alt text, and use 1086 × 1448 WebP derivatives from the six uploaded framed mockups.
+- The six artwork captions retain placeholder titles and physical dimensions. Pixel dimensions are not shown as artwork size.
+- All referenced local images and anchor destinations resolve; one H1, semantic landmarks, skip link, reduced motion, and visible focus states remain.
+- Gallery CSS has three columns on desktop, two below 960px, and one below 680px.
+- Instagram and Webby Wahine links have clear names and open in a new tab safely.
 
-## Awaiting browser verification
+## Browser review still needed
 
-This code has not yet been viewed on its GitHub Pages URL. The available cloud browser could not access the local preview server. Check 320px, 375px, tablet, laptop, and wide desktop; keyboard traversal, 200% text zoom, image crops, contrast, and actual loading behavior after upload. Fix any problems found before presenting the preview to Ariel.
-
-## Production work
-
-Replace the concept notice and `noindex`, verify email delivery and photo permission, confirm all client details, add canonical URL, social image, robots and sitemap for the final domain, and test the actual hosting configuration.
+A local browser runtime was unavailable here. After uploading to GitHub Pages, inspect 320px and 390px mobile, 768px tablet, and desktop widths; verify keyboard focus, image load, spacing, and footer links. Confirm the mockup imagery and actual art metadata with Ariel before public launch.

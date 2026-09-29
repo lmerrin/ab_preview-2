@@ -1,4 +1,4 @@
-# Ariel Bunao — Option B: The Exhibition · Rev 1
+# Ariel Bunao — Option B: The Exhibition · Rev 2
 
 ## Project interpretation
 
@@ -39,7 +39,7 @@ An 8px base with 16/24/32/48/72/96/128px roles. Name and descriptor group tightl
 
 ## 05 — Layout
 
-Max content width 1360px, main reading width 640px. Centered masthead and singular framed painting replace Option A's split hero. A two-column exhibition grid uses varied work sizes and alignment; no product cards. The artist section uses an edge-to-edge documentary image with a compact text panel. The closing inquiry uses a centered, dark typographic composition.
+Max content width 1360px, main reading width 640px. Centered masthead and singular framed painting replace Option A's split hero. A three-column by two-row exhibition grid gives six framed works even spacing on desktop; tablet uses two columns and mobile uses one. The artist section uses an edge-to-edge documentary image with a compact text panel. The closing inquiry uses a centered, dark typographic composition.
 
 ## 06 — Surfaces
 
@@ -47,11 +47,11 @@ Square framed artwork with pale mats, narrow borders, and no drop shadows. A sin
 
 ## 07 — Imagery
 
-The floral acrylic is the featured hero painting. Other distinct artworks appear in the viewing room. Process photos show Ariel at an easel and outdoors. Gallery work is contained without cropping. The hero art is also shown whole. Photographs can crop with subject-aware positioning. Source images are converted to optimized WebP with intrinsic dimensions.
+The floral acrylic is the featured hero painting. Six supplied framed artwork mockups appear in the viewing room. Process photos show Ariel at an easel and outdoors. Gallery work is contained without cropping. The hero art is also shown whole. Photographs can crop with subject-aware positioning. Source images are converted to optimized WebP with intrinsic dimensions.
 
 ## 08 — Graphics
 
-The script wordmark, thin rules, framed art mats, and numbered gallery labels carry the visual language. No generic icons or emoji. The temporary favicon uses an A letterform; final identity awaits Ariel.
+The script wordmark, thin rules, framed art mats, and restrained gallery labels carry the visual language. No generic icons or emoji. The temporary favicon uses an A letterform; final identity awaits Ariel.
 
 ## 09 — Buttons and links
 

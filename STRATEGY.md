@@ -10,7 +10,7 @@ A visitor meets Ariel and sees an actual painting immediately, then browses a sm
 
 ## Architecture
 
-Single-page navigation: Paintings → The artist → Inquire. Sections: dramatic artist introduction, featured floral work, four-work collection, artist/process, inquiry. The footer closes with her provisional name. No empty FAQ, manufactured testimonials, or shopping cart.
+Single-page navigation: Paintings → The artist → Inquire. Sections: dramatic artist introduction, featured floral work, six-work collection, artist and process, inquiry. The footer closes with her provisional name. No empty FAQ, manufactured testimonials, or shopping cart.
 
 ## Search and content
 

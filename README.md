@@ -1,14 +1,13 @@
-# Ariel Bunao — Option B: The Exhibition · GitHub Preview Rev 1
+# Ariel Bunao — Option B: The Exhibition · GitHub Preview Rev 2
 
-This is a **separate design option** from `Ariel_Bunao_GitHub_Preview_Rev-2.zip`. It has a dark gallery palette, handwritten artist name, centered featured painting, four-work exhibition, lilac artist section, outlined buttons, and a different navigation and section layout. It was built from fresh HTML/CSS using Ariel's submitted images.
+This ZIP is the complete **Option B Rev 2** website package. Upload the contents of this ZIP to the root of the existing Option B GitHub repository. Replace files with matching paths. Option A is a separate design and is not part of this package.
 
-## Upload to GitHub Pages
+## Changes in Rev 2
 
-1. Create a **separate repository** for this option, such as `ariel-bunao-preview-option-b`.
-2. Upload the **contents of this ZIP** to the repository root. `index.html`, `styles.css`, `404.html`, `favicon.svg`, and `assets/` must be at the top level.
-3. In repository **Settings → Pages**, choose **Deploy from a branch**, `main`, `/ (root)`.
-4. Open the Pages URL and review it on phone and desktop before sending it to Ariel.
+- Six supplied framed mockups in a three-column, two-row desktop gallery, with two columns on tablet and one on mobile.
+- Artwork names and physical dimensions remain placeholders: “Image Title” and “Actual image size # x #”. These are not measured from the pixel dimensions.
+- New artist-at-work section, script treatment for “Ariel,” and updated Instagram and Webby Wahine footer links.
 
-**Commit message:** `Add Ariel Bunao exhibition preview option B (Rev 1)`
+**Commit message:** `Revise Ariel Option B gallery and artist sections (Rev 2)`
 
-The preview deliberately has no checkout or confirmed artwork prices and availability. It uses Ariel's intake email in the inquiry links; confirm she is comfortable making that address public before sharing the GitHub Pages URL. `noindex` asks search engines not to list the preview but does not restrict access. Google Fonts are loaded for the signature and editorial type; system fallbacks remain usable if fonts do not load.
+The framed images are visual mockups, not exact archival reproductions. Confirm original artwork photography, dimensions, titles, availability, image use approval, and the public contact email with Ariel before launch. The preview has no checkout. The `noindex` tag asks search engines not to list it but does not restrict access.
