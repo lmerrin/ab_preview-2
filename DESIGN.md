@@ -1,4 +1,4 @@
-# Ariel Bunao — Option B: The Exhibition · Rev 5
+# Ariel Bunao — Option B: The Exhibition · Rev 6
 
 ## Project interpretation
 
@@ -69,6 +69,6 @@ On mobile, the signature scales down and the featured painting stays whole, with
 
 The supplied galleries suggest presenting artwork prominently and offering a clear route to inquire or shop. This concept borrows no copy, design asset, specific component, or page composition from LIK Fine Art, Margaret Rice Studio, Aloha de Mele, or Kris Hawaiʻi.
 
-## Rev 5 interaction
+## Rev 6 interaction
 
 Artwork images open a native dialog with the work’s placeholder metadata and inquiry link. A subtle zoom signals interactivity. Muted process footage under a dark overlay adds motion behind the artist-at-work heading and the two foreground photographs without expanding the section. Reduced motion displays a still image.
