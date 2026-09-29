@@ -1,7 +1,5 @@
-# Option B · Rev 4 QA
+# Option B · Rev 5 QA
 
-Source checks: six gallery cards, local assets and anchor targets, JavaScript syntax, requested copy, caption removal, title margin reset, mobile two-column grid, centered artist panel, and sticky header.
+Local checks cover image availability, HTML nesting, and JavaScript syntax. Full photo proportions are preserved with automatic height and narrow borders; no forced landscape frames. Desktop has three columns. Mobile features the portrait above two process photos. The script heading phrase remains together on its own line.
 
-The detail magnifier computes the visible image bounds and stays within the popup's image area. Touch devices use the magnifier button for a 2× image zoom. The process images use contain inside the existing image areas; their complete content is visible without increasing the section's image height.
-
-A browser runtime is unavailable in this workspace. Review visual layout and magnifier behavior on GitHub Pages at desktop and mobile widths, including navigation anchor offsets and Escape/close-button behavior.
+Visual browser review remains needed on GitHub Pages; a browser runtime is unavailable here.
